@@ -170,12 +170,18 @@ mvn spring-boot:run
 
 ## 📷 Screenshots
 
-You can add screenshots here later:
-
 - Spring Boot Running
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/beabf4aa-0cee-4d58-8bff-5ddf6dc0d7cf" />
+
 - POST Request (Postman)
+  <img width="860" height="594" alt="image" src="https://github.com/user-attachments/assets/d9ecc04e-18f4-4681-be7a-0a6664831348" />
+
 - GET Request (Postman)
+  <img width="865" height="604" alt="image" src="https://github.com/user-attachments/assets/e9ec2e22-fc58-477e-8fec-f2ae6bef3f7f" />
+
 - MongoDB Compass
+  <img width="1330" height="589" alt="image" src="https://github.com/user-attachments/assets/44f6e526-8eb5-4cbe-a3d3-cec010d74a8d" />
+
 
 ---
 
