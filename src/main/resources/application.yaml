@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: tempconverter
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/temp_db
+
+server:
+  port: 8081
